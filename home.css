@@ -6,6 +6,7 @@
 }
 
 body {
+  direction:rtl ;
   font-family: 'Arial', sans-serif;
   direction: rtl;
   background-color:none; 
