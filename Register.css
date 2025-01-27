@@ -10,14 +10,14 @@ body {
     height: 100%; 
     overflow-x: hidden;
     position: relative;
-    margin-top: 0; /* تصحيح */
+    margin-top: 0; 
     background-image: url('photo/زياااادات/Backgorund.jpeg'); /* إضافة خلفية */
     background-size: cover;
 }
 
 .form-wrapper {
     position: relative;
-    padding-top: 50px; /* تحريك الفورم لأسفل */
+    padding-top: 50px; 
 }
 
 .fanos-img {
